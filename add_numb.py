@@ -1,3 +1,4 @@
+#Ben's edit to clones
 #Ben's trying a shortcut
 #Ben's first python program
 def add_two(a,b);
